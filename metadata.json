@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI-Ozmil Studio",
+  "description": "A professional AI Content Studio for creators to transform photos, images, and text into publish-ready short-form videos with consistent characters and integrated voiceovers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
